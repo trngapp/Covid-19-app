@@ -117,15 +117,15 @@ console.log("COUNTRY INFO >>>",countryInfo);
     <div className="things">
 
 <p className="head"> 1> Go get vaccinated</p>
-<img className="image" src="https://image.freepik.com/free-vector/cartoon-coronavirus-vaccine-background_23-2148871017.jpg"></img>
+<img className="image" src="https://image.freepik.com/free-vector/cartoon-coronavirus-vaccine-background_23-2148871017.jpg" alt="1"></img>
 </div>
 <div className="things">
   <p className="head"> 2> Wear mask outside the home </p>
-  <img className="image" src="https://www.cdc.gov/coronavirus/2019-ncov/images/masks/322538_young_man_mask_fitter.jpg"></img>
+  <img className="image" src="https://www.cdc.gov/coronavirus/2019-ncov/images/masks/322538_young_man_mask_fitter.jpg" alt="2"></img>
 </div>
 <div className="things">
 <p className="head"> 3> Wash your hands</p>
-  <img className="image" src="https://creakyjoints.org/wp-content/uploads/2020/03/0320_Handwash_Infographic-1024x683.jpg"></img>
+  <img className="image" src="https://creakyjoints.org/wp-content/uploads/2020/03/0320_Handwash_Infographic-1024x683.jpg" alt="3"></img>
 </div>
   </div>
 </Card>
