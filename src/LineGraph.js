@@ -1,6 +1,5 @@
 import React,{useState,useEffect} from 'react'
 import {Line} from 'react-chartjs-2';
-import { color } from '@material-ui/system';
 import numeral from "numeral"
 function LineGraph({casesType="cases"}) {
     const [data,setData]=useState({});
@@ -70,7 +69,7 @@ y:data[casesType][date]-lastDataPoint,
            await fetch('https://disease.sh/v3/covid-19/historical/all?lastdays=120')
             .then(response => response.json())
             .then(data=>{
-     const chartData=buildChartData(data,casesType);
+     const chartData=buildChartData(data);
             setData(chartData);
 
 
