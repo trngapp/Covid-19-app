@@ -2,13 +2,12 @@ import './App.css';
 import {MenuItem,FormControl,Select} from "@material-ui/core"
 import {useState,useEffect} from 'react'
 import InfoBox from './InfoBox';
-import Map from './Map'
 import Table from './Table'
 import {Card,CardContent} from '@material-ui/core'
 import {sortData} from './util'
 import LineGraph from './LineGraph'
 import ReactPlayer from 'react-player';
-import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
+import { TwitterTimelineEmbed } from 'react-twitter-embed';
 
 function App() {
 const [countries,setCountries]=useState([]);
