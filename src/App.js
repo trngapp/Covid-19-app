@@ -160,6 +160,8 @@ console.log("COUNTRY INFO >>>",countryInfo);
           </div>
         </div>
       </div>
+</div>
+</div>
 </footer>
 
 
