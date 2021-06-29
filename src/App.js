@@ -130,8 +130,9 @@ console.log("COUNTRY INFO >>>",countryInfo);
   </div>
 </Card>
 
-
-<footer class="site-footer">
+  </div>
+<div>
+          <footer class="site-footer">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-6">
@@ -163,10 +164,8 @@ console.log("COUNTRY INFO >>>",countryInfo);
 </div>
 </div>
 </footer>
-
-
-
-  </div>
+      
+          </div>
   );
 }
 
