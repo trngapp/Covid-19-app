@@ -64,7 +64,7 @@ console.log("COUNTRY INFO >>>",countryInfo);
 
 
   return (
-
+<>
     <div className="app">
       <div className="app_left">
     <div className="app_header">
@@ -166,6 +166,7 @@ console.log("COUNTRY INFO >>>",countryInfo);
 </footer>
       
           </div>
+</>
   );
 }
 
