@@ -146,7 +146,7 @@ console.log("COUNTRY INFO >>>",countryInfo);
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by 
-         <a href="#">Tarang Sharma</a>.
+         Tarang Sharma.
             </p>
           </div>
 
