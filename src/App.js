@@ -136,7 +136,7 @@ console.log("COUNTRY INFO >>>",countryInfo);
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify"> <i>It is a web app which is made to give regular updates related to covid-19 pandemic</p>
+            <p class="text-justify"> It is a web app which is made to give regular updates related to covid-19 pandemic</p>
           </div>
 
     
